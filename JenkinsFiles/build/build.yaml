@@ -3,7 +3,6 @@ appName:"customer"
 jdkVersion:*-
 groupId:"com.bpi.t24"
 artifactId:"customer"
-teamsWebhook:
 git:
 	credentialId:"JENKINS-GIT-TOKEN"
 	username:"kakedari"
