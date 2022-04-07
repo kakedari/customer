@@ -1,0 +1,12 @@
+version:'1.0'
+appName:"customer"
+jdkVersion:*-
+libName: customer
+groupId:"com.bpi.t24"
+artifactId:"customer"
+t24relVersion: r282189
+teamsWebhook:
+git:
+	credentialId:"JENKINS-GIT-TOKEN"
+	username:"kakedari"
+	
