@@ -4,6 +4,6 @@ jdkVersion:*-
 groupId:"com.bpi.t24"
 artifactId:"customer"
 git:
-  credentialId:"JENKINS-GIT-TOKEN"
-  username:"kakedari"
+  CredentialId: "JENKINS-GIT-TOKEN"
+  username: "kakedari"
 	
