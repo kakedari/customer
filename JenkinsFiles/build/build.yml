@@ -1,9 +1,9 @@
 version:'1.0'
 appName:"customer"
 jdkVersion:*-
-groupId:"com.bpi.t24"
 artifactId:"customer"
-steps:
-- git:
-    CredentialId: "JENKINS-GIT-TOKEN"
-    username: "kakedari"
+--- 
+git_credentials: 
+  CredentialId: JENKINS-GIT-TOKEN
+  username: kakedari
+
