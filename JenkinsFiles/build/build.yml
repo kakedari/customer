@@ -4,6 +4,6 @@ jdkVersion:*-
 artifactId:"customer"
 --- 
 git_credentials: 
-  CredentialId: JENKINS-GIT-TOKEN
-  username: kakedari
+  CredentialId: github
+  
 
