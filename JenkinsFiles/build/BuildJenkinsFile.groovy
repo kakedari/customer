@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-@Library('Sharedlibs') _
+@Library('Shared-Library') _
 
 def buildParam = [
 	"applicationName": "customer",
